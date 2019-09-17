@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TRIGGER Pin=U1-63
+Change Component Footprint: Designator=C16 Old Footprint=cap0805 New Footprint=cap0402
+Added Component: Designator=R6(res0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-2
+Added Member To Class: ClassName=main sheet Member=Component R6 =Value

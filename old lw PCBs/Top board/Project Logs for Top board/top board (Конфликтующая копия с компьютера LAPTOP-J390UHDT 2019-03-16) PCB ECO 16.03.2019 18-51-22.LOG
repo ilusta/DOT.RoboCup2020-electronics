@@ -1,0 +1,96 @@
+Removed Member From Class: ClassName=MK Member=R5
+Removed Member From Class: ClassName=MK Member=R6
+Change Component Footprint: Designator=U4 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U5 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U6 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U7 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U8 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U9 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U10 Old Footprint=3x1.25 New Footprint=3x2.54
+Change Component Footprint: Designator=U11 Old Footprint=3x1.25 New Footprint=3x2.54
+Added Member To Class: ClassName=MK Member=Component R2 =Value
+Added Member To Class: ClassName=MK Member=Component R3 =Value
+Added Member To Class: ClassName=U_Sensors Member=Component R5 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R6 Value
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

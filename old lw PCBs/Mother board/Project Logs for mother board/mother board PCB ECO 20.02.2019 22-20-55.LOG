@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=A_CHECK Pin=U1-86
+Added Pin To Net: NetName=+5V_MD1 Pin=U?-1
+Added Pin To Net: NetName=BUT1 Pin=U?-2
+Added Member To Class: ClassName=main sheet Member=Component U? Header 2

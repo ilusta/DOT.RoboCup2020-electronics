@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=+5V_MD1 Pin=U?-1
+Removed Pin From Net: NetName=BUT1 Pin=U?-2
+Removed Member From Class: ClassName=main sheet Member=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11_MD1 NewDesignator=U12_MD1
+Change Component Designator: OldDesignator=U11_MD2 NewDesignator=U12_MD2
+Change Component Designator: OldDesignator=U11_MD3 NewDesignator=U12_MD3
+Change Component Designator: OldDesignator=U11_MD4 NewDesignator=U12_MD4
+Change Component Designator: OldDesignator=U12_MD1 NewDesignator=U13_MD1
+Change Component Designator: OldDesignator=U12_MD2 NewDesignator=U13_MD2
+Change Component Designator: OldDesignator=U12_MD3 NewDesignator=U13_MD3
+Change Component Designator: OldDesignator=U12_MD4 NewDesignator=U13_MD4
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Change Component Designator: OldDesignator=U14 NewDesignator=U15
+Change Component Designator: OldDesignator=U15_db NewDesignator=U16_db
+Change Component Designator: OldDesignator=U15_pb NewDesignator=U16_pb
+Change Component Designator: OldDesignator=U16 NewDesignator=U17
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Added Pin To Net: NetName=D+ Pin=U5-1
+Added Pin To Net: NetName=D- Pin=U5-2
+Change Net Name : Old Net Name=NetU15_db_31 New Net Name=NetU16_db_31
+Change Net Name : Old Net Name=NetU15_db_32 New Net Name=NetU16_db_32
+Change Net Name : Old Net Name=NetU15_pb_31 New Net Name=NetU16_pb_31
+Added Member To Class: ClassName=main sheet Member=Component U11 MCP1703T-3302E/CB
+Added Room: Name=db
+Added Room: Name=main sheet
+Added Room: Name=MD1
+Added Room: Name=MD2
+Added Room: Name=MD3
+Added Room: Name=MD4
+Added Room: Name=pb
+Added Room: Name=U_bvm
+Added Room: Name=USB
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

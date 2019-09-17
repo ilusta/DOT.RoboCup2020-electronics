@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C1 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=R2 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R3 Old Footprint=res0402 New Footprint=res0603
+Change Component Comment : Designator=C1 Old Comment==Value New Comment=0.1uF
+Change Component Comment : Designator=C2 Old Comment==Value New Comment=0.1uF
+Change Component Comment : Designator=R1 Old Comment==Value New Comment=1.5k
+Change Component Comment : Designator=R2 Old Comment==Value New Comment=4.7k
+Change Component Comment : Designator=R3 Old Comment==Value New Comment=4.7k
+Change Component Comment : Designator=R4 Old Comment==Value New Comment=10k
+Change Component Comment : Designator=VT1 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT2 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT3 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT4 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT5 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT6 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT7 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT8 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT9 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT10 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT11 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT12 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT13 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT14 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT15 Old Comment=Value New Comment=VEMT
+Change Component Comment : Designator=VT16 Old Comment=Value New Comment=VEMT

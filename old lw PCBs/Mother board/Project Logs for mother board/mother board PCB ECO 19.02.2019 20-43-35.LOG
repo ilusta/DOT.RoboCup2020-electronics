@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=USB Member=R5
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Added Component: Designator=C19(elcap_case_f)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT1(SOT23-3_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=NetR16_1 Pin=VT1-2
+Added Pin To Net: NetName=NetC19_1 Pin=VT1-3
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC20_1
+Added Pin To Net: NetName=BVM_IN Pin=C19-1
+Added Pin To Net: NetName=BVM_IN Pin=U1-15
+Added Pin To Net: NetName=BVM_IN Pin=VT1-1
+Added Net: Name=BVM_IN
+Added Member To Class: ClassName=U_bvm Member=Component C23 0.1 mF
+Added Member To Class: ClassName=USB Member=Component R9 1K
+Added Member To Class: ClassName=U_bvm Member=Component VT1 NPN
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

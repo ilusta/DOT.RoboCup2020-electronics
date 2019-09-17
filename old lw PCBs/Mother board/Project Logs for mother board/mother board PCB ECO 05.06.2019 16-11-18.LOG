@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=+5V_MD1 Pin=U6-4
+Removed Member From Class: ClassName=main sheet Member=U6
+Added Member To Class: ClassName=main sheet Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_bvm Member=Component C13 Value
+Added Member To Class: ClassName=U_bvm Member=Component C14 Value
+Added Member To Class: ClassName=U_bvm Member=Component D1 Diode SMD
+Added Member To Class: ClassName=main sheet Member=Component U4 Header 5
+Added Member To Class: ClassName=db Member=Component VD3_db (VD3) 
+Added Member To Class: ClassName=pb Member=Component VD3_pb (VD3) 
+Added Room: Name=db
+Added Room: Name=main sheet
+Added Room: Name=MD1
+Added Room: Name=MD2
+Added Room: Name=MD3
+Added Room: Name=MD4
+Added Room: Name=pb
+Added Room: Name=U_BVM
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=AREF Pin=U1-A2
+Removed Pin From Net: NetName=RS Pin=U1-A4
+Removed Pin From Net: NetName=GND Pin=U1-A9
+Removed Pin From Net: NetName=+5V_MD Pin=U1-A10
+Removed Pin From Net: NetName=+5V_MD Pin=U1-B1
+Removed Pin From Net: NetName=DB4 Pin=U1-B2
+Removed Pin From Net: NetName=WR Pin=U1-B3
+Removed Pin From Net: NetName=CS Pin=U1-B4
+Removed Pin From Net: NetName=PE0 Pin=U1-C2
+Removed Pin From Net: NetName=PE1 Pin=U1-C3
+Removed Pin From Net: NetName=DB6 Pin=U1-E4
+Removed Pin From Net: NetName=DB0 Pin=U1-E5
+Removed Pin From Net: NetName=+5V_MD Pin=U1-F1
+Removed Pin From Net: NetName=DB7 Pin=U1-F2
+Removed Pin From Net: NetName=DB1 Pin=U1-F3
+Removed Pin From Net: NetName=GND Pin=U1-F10
+Removed Pin From Net: NetName=GND Pin=U1-G1
+Removed Pin From Net: NetName=DB3 Pin=U1-G4
+Removed Pin From Net: NetName=+5V_MD Pin=U1-G10
+Removed Pin From Net: NetName=DB2 Pin=U1-H2
+Removed Pin From Net: NetName=RESET Pin=U1-H3
+Removed Pin From Net: NetName=DB5 Pin=U1-K1
+Removed Pin From Net: NetName=+5V_MD Pin=U1-K3
+Removed Pin From Net: NetName=GND Pin=U1-K4
+Removed Pin From Net: NetName=XTAL1 Pin=U1-K5
+Removed Member From Class: ClassName=main sheet Member=C12
+Removed Member From Class: ClassName=main sheet Member=C13
+Removed Member From Class: ClassName=main sheet Member=C14
+Removed Member From Class: ClassName=main sheet Member=C15
+Removed Member From Class: ClassName=main sheet Member=R7
+Removed Member From Class: ClassName=main sheet Member=R8
+Removed Member From Class: ClassName=USB Member=R9
+Removed Member From Class: ClassName=USB Member=U5
+Added Component: Designator=U1(100A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-AED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/products/avr/default.asp?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega640/1280/1281/2560/2561 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2549.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega640/1280/1281/2560/2561 Summary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/2549S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revL, Aug-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Thin Profile Plastic Quad Flat Pack (TQFP), 14 x 14 x 1.0 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Oct-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "1-Apr-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA2560-16AU-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1288330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1661740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "556-ATMEGA2560-16AU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DB4 Pin=U1-1
+Added Pin To Net: NetName=PE1 Pin=U1-3
+Added Pin To Net: NetName=+5V_MD Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=DB6 Pin=U1-15
+Added Pin To Net: NetName=DB7 Pin=U1-16
+Added Pin To Net: NetName=DB0 Pin=U1-17
+Added Pin To Net: NetName=DB1 Pin=U1-18
+Added Pin To Net: NetName=DB2 Pin=U1-23
+Added Pin To Net: NetName=DB3 Pin=U1-24
+Added Pin To Net: NetName=DB5 Pin=U1-26
+Added Pin To Net: NetName=RESET Pin=U1-30
+Added Pin To Net: NetName=+5V_MD Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=XTAL1 Pin=U1-34
+Added Pin To Net: NetName=+5V_MD Pin=U1-61
+Added Pin To Net: NetName=GND Pin=U1-62
+Added Pin To Net: NetName=+5V_MD Pin=U1-80
+Added Pin To Net: NetName=GND Pin=U1-81
+Added Pin To Net: NetName=CS Pin=U1-94
+Added Pin To Net: NetName=RS Pin=U1-95
+Added Pin To Net: NetName=WR Pin=U1-96
+Added Pin To Net: NetName=AREF Pin=U1-98
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=+5V_MD Pin=U1-100
+Added Pin To Net: NetName=XTAL2 Pin=R1-2
+Added Pin To Net: NetName=XTAL2 Pin=U1-33
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=main sheet Member=Component C1 0.1mF
+Added Member To Class: ClassName=main sheet Member=Component C2 0.1mF
+Added Member To Class: ClassName=main sheet Member=Component C3 0.1mF
+Added Member To Class: ClassName=main sheet Member=Component C4 0.1mF
+Added Member To Class: ClassName=main sheet Member=Component R1 27R
+Added Member To Class: ClassName=main sheet Member=Component R2 10K
+Added Member To Class: ClassName=USB Member=Component R3 1K

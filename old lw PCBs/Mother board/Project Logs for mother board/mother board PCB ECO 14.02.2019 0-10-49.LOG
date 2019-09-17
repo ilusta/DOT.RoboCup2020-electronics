@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R22 Old Footprint=CH0201R New Footprint=CH0603R
+Change Component Designator: OldDesignator=R19 NewDesignator=R19_Designator
+Change Component Designator: OldDesignator=R20 NewDesignator=R20_U_data bluetooth
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD3_U_data bluetooth

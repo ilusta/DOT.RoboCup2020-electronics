@@ -1,0 +1,15 @@
+Added Component: Designator=D5(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USBVCC Pin=D5-1
+Added Pin To Net: NetName=+5 Pin=D5-2
+Added Pin To Net: NetName=+5V_MD1 Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD1-2
+Added Member To Class: ClassName=USB Member=Component D5 Diode SMD
+Added Member To Class: ClassName=main sheet Member=Component VD1 Green

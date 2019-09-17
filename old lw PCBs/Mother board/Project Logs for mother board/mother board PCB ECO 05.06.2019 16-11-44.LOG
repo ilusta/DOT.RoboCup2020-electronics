@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=+5V_MD1 Pin=U6-4
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

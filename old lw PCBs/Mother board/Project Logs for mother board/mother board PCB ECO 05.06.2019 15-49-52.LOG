@@ -1,0 +1,80 @@
+Added Component: Designator=C2(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C18(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(SRR1280)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(3224W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U18(TO263-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(SOT-89-MB3_N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KICK_VDD Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=L1-1
+Added Pin To Net: NetName=KICK_VDD Pin=R7-2
+Added Pin To Net: NetName=KICK_VDD Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=L1-2
+Added Pin To Net: NetName=NetD3_1 Pin=U18-3
+Added Pin To Net: NetName=NetD3_1 Pin=U18-3
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-2
+Added Pin To Net: NetName=NetR19_1 Pin=U18-5
+Added Pin To Net: NetName=NetR19_1 Pin=VT2-3
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=Val Pin=R18-1
+Added Pin To Net: NetName=Val Pin=VT2-1
+Added Net: Name=Val
+Added Pin To Net: NetName=Value Pin=R18-2
+Added Net: Name=Value
+Added Pin To Net: NetName=VOUT Pin=C15-1
+Added Pin To Net: NetName=VOUT Pin=C18-1
+Added Pin To Net: NetName=VOUT Pin=D3-2
+Added Pin To Net: NetName=VOUT Pin=R7-1
+Added Pin To Net: NetName=VOUT Pin=R8-1
+Added Pin To Net: NetName=VOUT Pin=R19-2
+Added Pin To Net: NetName=VOUT Pin=R19-3
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Net: Name=VOUT
+Added Class: Name=U_BVM
+Added Member To Class: ClassName=main sheet Member=Component C2 =Value
+Added Member To Class: ClassName=main sheet Member=Component R7 =Value
+Added Member To Class: ClassName=main sheet Member=Component R8 =Value
+Added Room: Name=db
+Added Room: Name=main sheet
+Added Room: Name=MD1
+Added Room: Name=MD2
+Added Room: Name=MD3
+Added Room: Name=MD4
+Added Room: Name=pb
+Added Room: Name=U_BVM

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BVM_IN Pin=C20-1
+Removed Pin From Net: NetName=BVM_IN Pin=VT2-1
+Change Component Footprint: Designator=U2 Old Footprint=Power connectors New Footprint=XT30
+Change Component Footprint: Designator=U15 Old Footprint=Power connectors New Footprint=XT30
+Change Component Comment : Designator=U15 Old Comment=VIN New Comment=Kicker
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=VT2-1
+Added Net: Name=NetC20_1

@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Buttons board.PrjPCB]
+   Generated File[Buttons board.GBL]
+   Generated File[Buttons board.RUL]
+   Generated File[Buttons board.EXTREP]
+   Generated File[Buttons board.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:56:25 On 03.04.2019

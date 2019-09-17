@@ -1,0 +1,176 @@
+Removed Pin From Net: NetName=1S Pin=C5-2
+Removed Pin From Net: NetName=2S Pin=C6-2
+Removed Pin From Net: NetName=3S Pin=C7-2
+Removed Pin From Net: NetName=4S Pin=C8-2
+Removed Pin From Net: NetName=5S Pin=C9-2
+Removed Pin From Net: NetName=6S Pin=C10-2
+Removed Pin From Net: NetName=7S Pin=C11-2
+Removed Pin From Net: NetName=8S Pin=C12-2
+Removed Pin From Net: NetName=9S Pin=C13-2
+Removed Pin From Net: NetName=10S Pin=C14-2
+Removed Pin From Net: NetName=11S Pin=C15-2
+Removed Pin From Net: NetName=12S Pin=C16-2
+Removed Pin From Net: NetName=13S Pin=C17-2
+Removed Pin From Net: NetName=14S Pin=C18-2
+Removed Pin From Net: NetName=15S Pin=C19-2
+Removed Pin From Net: NetName=16S Pin=C20-2
+Removed Pin From Net: NetName=1S Pin=TS1-1
+Removed Pin From Net: NetName=2S Pin=TS2-1
+Removed Pin From Net: NetName=3S Pin=TS3-1
+Removed Pin From Net: NetName=4S Pin=TS4-1
+Removed Pin From Net: NetName=5S Pin=TS5-1
+Removed Pin From Net: NetName=6S Pin=TS6-1
+Removed Pin From Net: NetName=7S Pin=TS7-1
+Removed Pin From Net: NetName=8S Pin=TS8-1
+Removed Pin From Net: NetName=9S Pin=TS9-1
+Removed Pin From Net: NetName=10S Pin=TS10-1
+Removed Pin From Net: NetName=11S Pin=TS11-1
+Removed Pin From Net: NetName=12S Pin=TS12-1
+Removed Pin From Net: NetName=13S Pin=TS13-1
+Removed Pin From Net: NetName=14S Pin=TS14-1
+Removed Pin From Net: NetName=15S Pin=TS15-1
+Removed Pin From Net: NetName=16S Pin=TS16-1
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C13
+Change Component Designator: OldDesignator=C17 NewDesignator=C20
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C17
+Change Component Designator: OldDesignator=TS1 NewDesignator=TS4
+Change Component Designator: OldDesignator=TS2 NewDesignator=TS3
+Change Component Designator: OldDesignator=TS3 NewDesignator=TS2
+Change Component Designator: OldDesignator=TS4 NewDesignator=TS1
+Change Component Designator: OldDesignator=TS5 NewDesignator=TS8
+Change Component Designator: OldDesignator=TS6 NewDesignator=TS7
+Change Component Designator: OldDesignator=TS7 NewDesignator=TS6
+Change Component Designator: OldDesignator=TS8 NewDesignator=TS5
+Change Component Designator: OldDesignator=TS9 NewDesignator=TS12
+Change Component Designator: OldDesignator=TS10 NewDesignator=TS11
+Change Component Designator: OldDesignator=TS11 NewDesignator=TS10
+Change Component Designator: OldDesignator=TS12 NewDesignator=TS9
+Change Component Designator: OldDesignator=TS13 NewDesignator=TS16
+Change Component Designator: OldDesignator=TS14 NewDesignator=TS15
+Change Component Designator: OldDesignator=TS15 NewDesignator=TS14
+Change Component Designator: OldDesignator=TS16 NewDesignator=TS13
+Added Component: Designator=R5(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(res0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(res0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=1S Pin=C5-2
+Added Pin To Net: NetName=2S Pin=C6-2
+Added Pin To Net: NetName=3S Pin=C7-2
+Added Pin To Net: NetName=4S Pin=C8-2
+Added Pin To Net: NetName=5S Pin=C9-2
+Added Pin To Net: NetName=6S Pin=C10-2
+Added Pin To Net: NetName=7S Pin=C11-2
+Added Pin To Net: NetName=8S Pin=C12-2
+Added Pin To Net: NetName=9S Pin=C13-2
+Added Pin To Net: NetName=10S Pin=C14-2
+Added Pin To Net: NetName=11S Pin=C15-2
+Added Pin To Net: NetName=12S Pin=C16-2
+Added Pin To Net: NetName=13S Pin=C17-2
+Added Pin To Net: NetName=14S Pin=C18-2
+Added Pin To Net: NetName=15S Pin=C19-2
+Added Pin To Net: NetName=16S Pin=C20-2
+Added Pin To Net: NetName=1S Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=2S Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=3S Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=4S Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=5S Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=6S Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=7S Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=8S Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=9S Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=10S Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=11S Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=12S Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=13S Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=14S Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=15S Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=16S Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR5_2 Pin=TS1-1
+Added Pin To Net: NetName=NetR6_2 Pin=TS2-1
+Added Pin To Net: NetName=NetR7_2 Pin=TS3-1
+Added Pin To Net: NetName=NetR8_2 Pin=TS4-1
+Added Pin To Net: NetName=NetR9_2 Pin=TS5-1
+Added Pin To Net: NetName=NetR10_2 Pin=TS6-1
+Added Pin To Net: NetName=NetR11_2 Pin=TS7-1
+Added Pin To Net: NetName=NetR12_2 Pin=TS8-1
+Added Pin To Net: NetName=NetR13_2 Pin=TS9-1
+Added Pin To Net: NetName=NetR14_2 Pin=TS10-1
+Added Pin To Net: NetName=NetR15_2 Pin=TS11-1
+Added Pin To Net: NetName=NetR16_2 Pin=TS12-1
+Added Pin To Net: NetName=NetR17_2 Pin=TS13-1
+Added Pin To Net: NetName=NetR18_2 Pin=TS14-1
+Added Pin To Net: NetName=NetR19_2 Pin=TS15-1
+Added Pin To Net: NetName=NetR20_2 Pin=TS16-1
+Added Member To Class: ClassName=U_Sensors Member=Component R5 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R6 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R7 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R8 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R9 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R10 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R11 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R12 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R13 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R14 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R15 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R16 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R17 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R18 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R19 Value
+Added Member To Class: ClassName=U_Sensors Member=Component R20 Value

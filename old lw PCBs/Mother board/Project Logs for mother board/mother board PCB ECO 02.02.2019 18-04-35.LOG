@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-2
+Removed Pin From Net: NetName=DB7 Pin=U2-7
+Removed Pin From Net: NetName=DB6 Pin=U2-8
+Removed Pin From Net: NetName=DB5 Pin=U2-9
+Removed Pin From Net: NetName=DB4 Pin=U2-10
+Removed Pin From Net: NetName=DB3 Pin=U2-11
+Removed Pin From Net: NetName=DB2 Pin=U2-12
+Removed Pin From Net: NetName=DB1 Pin=U2-13
+Removed Pin From Net: NetName=DB0 Pin=U2-14
+Removed Pin From Net: NetName=RESET Pin=U2-15
+Removed Pin From Net: NetName=WR Pin=U2-16
+Removed Pin From Net: NetName=RS Pin=U2-17
+Removed Pin From Net: NetName=CS Pin=U2-18
+Removed Pin From Net: NetName=+5 Pin=U2-19
+Removed Pin From Net: NetName=GND Pin=U2-20
+Removed Pin From Net: NetName=XOUT Pin=Y1-1
+Removed Member From Class: ClassName=U_USB Hub Member=R3
+Removed Member From Class: ClassName=main sheet Member=U2
+Removed Member From Class: ClassName=U_USB Hub Member=Y1
+Change Component Comment : Designator=U2 Old Comment=FFC/FPC Jack 20 New Comment=FT232RL
+Change Component Designator: OldDesignator=C1 NewDesignator=C12
+Change Component Designator: OldDesignator=C2 NewDesignator=C13
+Change Component Designator: OldDesignator=C3 NewDesignator=C14
+Change Component Designator: OldDesignator=C4 NewDesignator=C15
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R8
+Change Component Designator: OldDesignator=R3 NewDesignator=R9
+Change component parameters: Designator = "U2"; Footprint = "28-SSOP"; UniqueID = "\QMXXSCLT\LEQWAQUK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentKind"; Value = "SSOP-28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/ftdi-future-technology-devices-international-ltd/FT232RL-REEL/768-1007-1-ND/1836402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FTDI, Future Technology Devices International Ltd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "FT232RL-REEL"; VariantName = "[No Variations]"
+Added Component: Designator=U1(100C1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/products/avr/default.asp?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega640/1280/1281/2560/2561 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2549.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega640/1280/1281/2560/2561 Summary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/2549S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revL, Aug-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Ball Chip Array BGA Package (CBGA), 9 x 9 x1.2 mm Body, 0.80 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100C1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revA, May-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "1-Apr-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA2560-16CU-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA2560-16CU"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT23-3_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22049d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Microchip.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revD, Sep-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Lead Plastic Small Outline Transistor (CB) [SOT-23A]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23A-CB3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Jan-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP1703T-3302E/CBTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "MCP1703T-3302E/CBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "MCP1703T-3302E/CBDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1439518"; VariantName = "[No Variations]"
+Added Component: Designator=U5(Power connectors)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6_MD2(8-Pin HSOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6_MD(8-Pin HSOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U7_MD2(8-Pin HSOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U7_MD(8-Pin HSOP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-A1
+Added Pin To Net: NetName=AREF Pin=U1-A2
+Added Pin To Net: NetName=RS Pin=U1-A4
+Added Pin To Net: NetName=GND Pin=U1-A9
+Added Pin To Net: NetName=+5 Pin=U1-A10
+Added Pin To Net: NetName=+5 Pin=U1-B1
+Added Pin To Net: NetName=DB4 Pin=U1-B2
+Added Pin To Net: NetName=WR Pin=U1-B3
+Added Pin To Net: NetName=CS Pin=U1-B4
+Added Pin To Net: NetName=PE0 Pin=U1-C2
+Added Pin To Net: NetName=PE1 Pin=U1-C3
+Added Pin To Net: NetName=DB6 Pin=U1-E4
+Added Pin To Net: NetName=DB0 Pin=U1-E5
+Added Pin To Net: NetName=+5 Pin=U1-F1
+Added Pin To Net: NetName=DB7 Pin=U1-F2
+Added Pin To Net: NetName=DB1 Pin=U1-F3
+Added Pin To Net: NetName=GND Pin=U1-F10
+Added Pin To Net: NetName=GND Pin=U1-G1
+Added Pin To Net: NetName=DB3 Pin=U1-G4
+Added Pin To Net: NetName=+5 Pin=U1-G10
+Added Pin To Net: NetName=DB2 Pin=U1-H2
+Added Pin To Net: NetName=RESET Pin=U1-H3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-J5
+Added Pin To Net: NetName=DB5 Pin=U1-K1
+Added Pin To Net: NetName=+5 Pin=U1-K3
+Added Pin To Net: NetName=GND Pin=U1-K4
+Added Pin To Net: NetName=XTAL1 Pin=U1-K5
+Added Pin To Net: NetName=M8RX Pin=U2-1
+Added Pin To Net: NetName=DTR Pin=U2-2
+Added Pin To Net: NetName=M8TX Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=D- Pin=U2-15
+Added Pin To Net: NetName=D+ Pin=U2-16
+Added Pin To Net: NetName=+3V3 Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=TX Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+3V3 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U6_MD2-1
+Added Pin To Net: NetName=+5 Pin=U6_MD2-4
+Added Pin To Net: NetName=GND Pin=U6_MD2-7
+Added Pin To Net: NetName=GND Pin=U6_MD-1
+Added Pin To Net: NetName=+5 Pin=U6_MD-4
+Added Pin To Net: NetName=GND Pin=U6_MD-7
+Added Pin To Net: NetName=GND Pin=U7_MD2-1
+Added Pin To Net: NetName=+5 Pin=U7_MD2-4
+Added Pin To Net: NetName=GND Pin=U7_MD2-7
+Added Pin To Net: NetName=GND Pin=U7_MD-1
+Added Pin To Net: NetName=+5 Pin=U7_MD-4
+Added Pin To Net: NetName=GND Pin=U7_MD-7
+Added Pin To Net: NetName=NetR1_1 Pin=Y1-1
+Change Net Name : Old Net Name=+5 New Net Name=+5V_MD
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=U2-4
+Added Pin To Net: NetName=+5 Pin=U2-19
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Pin To Net: NetName=+5 Pin=U3-3
+Added Net: Name=+5
+Added Pin To Net: NetName=IN1_MD2 Pin=U6_MD2-2
+Added Pin To Net: NetName=IN1_MD2 Pin=U7_MD2-2
+Added Net: Name=IN1_MD2
+Added Pin To Net: NetName=IN1_MD Pin=U6_MD-2
+Added Pin To Net: NetName=IN1_MD Pin=U7_MD-2
+Added Net: Name=IN1_MD
+Added Pin To Net: NetName=IN2_MD2 Pin=U6_MD2-3
+Added Pin To Net: NetName=IN2_MD2 Pin=U7_MD2-3
+Added Net: Name=IN2_MD2
+Added Pin To Net: NetName=IN2_MD Pin=U6_MD-3
+Added Pin To Net: NetName=IN2_MD Pin=U7_MD-3
+Added Net: Name=IN2_MD
+Added Pin To Net: NetName=M1OUT1 Pin=U6_MD-6
+Added Pin To Net: NetName=M1OUT1 Pin=U7_MD-6
+Added Net: Name=M1OUT1
+Added Pin To Net: NetName=M1OUT2 Pin=U6_MD-8
+Added Pin To Net: NetName=M1OUT2 Pin=U7_MD-8
+Added Net: Name=M1OUT2
+Added Pin To Net: NetName=M2OUT1 Pin=U6_MD2-6
+Added Pin To Net: NetName=M2OUT1 Pin=U6_MD2-8
+Added Pin To Net: NetName=M2OUT1 Pin=U7_MD2-6
+Added Pin To Net: NetName=M2OUT1 Pin=U7_MD2-8
+Added Net: Name=M2OUT1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=VMotor_MD Pin=U5-2
+Added Pin To Net: NetName=VMotor_MD Pin=U6_MD2-5
+Added Pin To Net: NetName=VMotor_MD Pin=U6_MD-5
+Added Pin To Net: NetName=VMotor_MD Pin=U7_MD2-5
+Added Pin To Net: NetName=VMotor_MD Pin=U7_MD-5
+Added Net: Name=VMotor_MD
+Change Class Name : Old Net Name=U_USB Hub New Net Name=USBHub
+Added Class: Name=MD2
+Added Class: Name=MD
+Added Class: Name=Motor driver sheet
+Added Member To Class: ClassName=USBHub Member=Component R9 10k
+Added Member To Class: ClassName=main sheet Member=Component U1 ATmega2560-16CU
+Added Member To Class: ClassName=USB Member=Component U2 FT232RL
+Added Member To Class: ClassName=USB Member=Component U3 MCP1703T-3302E/CB
+Added Member To Class: ClassName=main sheet Member=Component U5 VIN
+Added Room: Name=MD2
+Added Room: Name=MD
+Added Room: Name=USBHub
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=78.74mil New=0mil

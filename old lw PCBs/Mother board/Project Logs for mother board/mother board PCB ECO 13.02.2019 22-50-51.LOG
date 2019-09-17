@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=USBVCC Pin=R3-1
+Removed Pin From Net: NetName=USBVCC Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=USBVCC Pin=U5-9
+Removed Pin From Net: NetName=GND Pin=U5-11
+Removed Pin From Net: NetName=GND Pin=U5-25
+Removed Pin From Net: NetName=GND Pin=U5-32
+Removed Pin From Net: NetName=GND Pin=U5-37
+Removed Pin From Net: NetName=D- Pin=U5-38
+Removed Pin From Net: NetName=D+ Pin=U5-39
+Removed Pin From Net: NetName=GND Pin=U5-43
+Removed Pin From Net: NetName=GND Pin=U5-49
+Removed Pin From Net: NetName=USBVCC Pin=U5-51
+Removed Pin From Net: NetName=GND Pin=VD1-2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Added Component: Designator=D6(MOD: HC-05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = "Bluetooth 2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.aliexpress.com/wholesale?minPrice=&maxPrice=&isBigSale=n&isFreeShip=y&isNew=n&isFavorite=n&isMobileExclusive=n&isLocalReturn=n&shipFromCountry=&shipCompanies=&SearchText=HC-06&CatId=0&initiative_id=SB_20170806222546&needQuery=y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "HC-06"; VariantName = "[No Variations]"
+Added Component: Designator=R1(CH0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(CH0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(CH0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(CH0603LG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "green"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(CH0603LG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_MD1 Pin=C17-2
+Added Pin To Net: NetName=+5V_MD1 Pin=C19-2
+Added Pin To Net: NetName=+5V_MD1 Pin=D5-2
+Added Pin To Net: NetName=+5V_MD1 Pin=D6-12
+Added Pin To Net: NetName=GND Pin=D6-13
+Added Pin To Net: NetName=GND Pin=D6-21
+Added Pin To Net: NetName=GND Pin=D6-22
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=+5V_MD1 Pin=R17-2
+Added Pin To Net: NetName=+5V_MD1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=+5V_MD1 Pin=U8-4
+Added Pin To Net: NetName=+5V_MD1 Pin=U8-19
+Added Pin To Net: NetName=+5V_MD1 Pin=U8-20
+Added Pin To Net: NetName=+5V_MD1 Pin=U9-3
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=U2-45
+Added Pin To Net: NetName=NetD6_1 Pin=VD2-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=U2-46
+Added Pin To Net: NetName=NetD6_2 Pin=VD3-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=VD2-2
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=VD3-2
+Added Net: Name=NetR20_1
+Added Class: Name=Designator
+Added Member To Class: ClassName=main sheet Member=Component R3 27R
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=20mm New=0mm

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=IMU_RX Pin=U9-2
+Removed Pin From Net: NetName=IMU_TX Pin=U9-3
+Removed Pin From Net: NetName=IMU_RX Pin=U10-2
+Removed Pin From Net: NetName=IMU_TX Pin=U10-3
+Added Component: Designator=U2(4x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U18(4x1.27)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=SDA Pin=U2-2
+Added Pin To Net: NetName=SCL Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=IMU_TX Pin=U9-2
+Added Pin To Net: NetName=IMU_RX Pin=U9-3
+Added Pin To Net: NetName=IMU_TX Pin=U10-2
+Added Pin To Net: NetName=IMU_RX Pin=U10-3
+Added Pin To Net: NetName=+5 Pin=U18-1
+Added Pin To Net: NetName=SDA Pin=U18-2
+Added Pin To Net: NetName=SCL Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Member To Class: ClassName=Main Sheet Member=Component U2 Header 4
+Added Member To Class: ClassName=Main Sheet Member=Component U6 Header 4
+Added Member To Class: ClassName=Main Sheet Member=Component U7 Header 4
+Added Member To Class: ClassName=Main Sheet Member=Component U18 Header 4

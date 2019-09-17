@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=main sheet Member=C14
+Change Component Footprint: Designator=R7 Old Footprint=res0402 New Footprint=smd2512
+Change Component Footprint: Designator=R8 Old Footprint=res0402 New Footprint=smd2512
+Added Member To Class: ClassName=main sheet Member=Component C4 =Value
+Added Member To Class: ClassName=U_bvm Member=Component R15 Value
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

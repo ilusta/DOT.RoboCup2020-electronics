@@ -1,0 +1,51 @@
+Change Component Footprint: Designator=U6 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U8 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U9 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U10 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U12 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=VT1 Old Footprint=8-HSOF New Footprint=DPAK
+Change Component Footprint: Designator=C1 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C4 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C5 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C6 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C7 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C9 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C10 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C12 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C13 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C14 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C15 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C21 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C22 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C19 Old Footprint=D13C5H20 New Footprint=D8C3.2H12
+Change Component Footprint: Designator=C20 Old Footprint=D13C5H20 New Footprint=D8C3.2H12
+Change Component Footprint: Designator=C18 Old Footprint=elcap_case_f New Footprint=D6.6C6.6H6.1
+Change Component Footprint: Designator=Y1 Old Footprint=QSMD3.2x2.5_A New Footprint=QSMD3.2x2.5_H
+Change Component Footprint: Designator=R1 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R2 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R3 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R5 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R6 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R9 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R10 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R11 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R12 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R13 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R14 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R15 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R15 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R16 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R16 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R17 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R17 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R18 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R20 Old Footprint=res0402 New Footprint=res0603
+Change Component Footprint: Designator=R7 Old Footprint=res0402 New Footprint=smd2512
+Change Component Footprint: Designator=R8 Old Footprint=res0402 New Footprint=smd2512
+Change Component Footprint: Designator=VT2 Old Footprint=SOT-89-MB3_N New Footprint=SOT23-3_A
+Change Component Comment: Designator=C9 Old Comment==Value New Comment=22p
+Change Component Comment: Designator=C10 Old Comment==Value New Comment=22p
+Change Pin Designator/Name:  Old Designator=VT2-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=VT2-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Package Length: Pin=VT2-2 Old Length=3mm New Length=2mm
+Change Pin Package Length: Pin=VT2-3 Old Length=2mm New Length=3mm

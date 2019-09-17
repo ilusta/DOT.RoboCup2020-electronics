@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=+5V_MD1 Pin=U14_MD1-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U14_MD1-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U14_MD2-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U14_MD2-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U14_MD3-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U14_MD3-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U14_MD4-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U14_MD4-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U15_MD1-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U15_MD1-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U15_MD2-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U15_MD2-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U15_MD3-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U15_MD3-5
+Added Pin To Net: NetName=+5V_MD1 Pin=U15_MD4-4
+Added Pin To Net: NetName=VMotor_MD1 Pin=U15_MD4-5

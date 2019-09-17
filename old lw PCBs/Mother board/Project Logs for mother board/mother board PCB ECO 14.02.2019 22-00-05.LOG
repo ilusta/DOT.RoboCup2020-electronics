@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=D6_U_data bluetooth-12
+Removed Pin From Net: NetName=+5V_MD1 Pin=D6_U_data bluetooth-13
+Removed Pin From Net: NetName=+5V_MD1 Pin=D6_U_data bluetooth-21
+Removed Pin From Net: NetName=+5V_MD1 Pin=D6_U_data bluetooth-22
+Removed Pin From Net: NetName=+5V_MD1 Pin=R21_U_data bluetooth-2
+Removed Pin From Net: NetName=+5V_MD1 Pin=R22_U_data bluetooth-2
+Added Pin To Net: NetName=+5V_MD1 Pin=D6_U_data bluetooth-12
+Added Pin To Net: NetName=GND Pin=D6_U_data bluetooth-13
+Added Pin To Net: NetName=GND Pin=D6_U_data bluetooth-21
+Added Pin To Net: NetName=GND Pin=D6_U_data bluetooth-22
+Added Pin To Net: NetName=GND Pin=R21_U_data bluetooth-2
+Added Pin To Net: NetName=GND Pin=R22_U_data bluetooth-2

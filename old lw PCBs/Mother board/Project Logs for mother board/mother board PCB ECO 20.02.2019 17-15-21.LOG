@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=main sheet Member=U15
+Change Component Comment : Designator=C20 Old Comment=Value New Comment=0.1uF
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8_MD1 NewDesignator=U9_MD1
+Change Component Designator: OldDesignator=U8_MD2 NewDesignator=U9_MD2
+Change Component Designator: OldDesignator=U8_MD3 NewDesignator=U9_MD3
+Change Component Designator: OldDesignator=U8_MD4 NewDesignator=U9_MD4
+Change Component Designator: OldDesignator=U9_MD1 NewDesignator=U10_MD1
+Change Component Designator: OldDesignator=U9_MD2 NewDesignator=U10_MD2
+Change Component Designator: OldDesignator=U9_MD3 NewDesignator=U10_MD3
+Change Component Designator: OldDesignator=U9_MD4 NewDesignator=U10_MD4
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13_db NewDesignator=U14_db
+Change Component Designator: OldDesignator=U13_pb NewDesignator=U14_pb
+Change Component Designator: OldDesignator=U14 NewDesignator=U15
+Change Component Designator: OldDesignator=U15 NewDesignator=U6
+Added Component: Designator=R20(res0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BVM_IN Pin=C20-1
+Added Pin To Net: NetName=BVM_IN Pin=R20-2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetU13_db_31 New Net Name=NetU14_db_31
+Change Net Name : Old Net Name=NetU13_db_32 New Net Name=NetU14_db_32
+Change Net Name : Old Net Name=NetU13_pb_31 New Net Name=NetU14_pb_31
+Change Net Name : Old Net Name=NetU15_2 New Net Name=NetU6_2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=VT2-1
+Added Net: Name=NetR20_1
+Added Member To Class: ClassName=U_bvm Member=Component R22 1.3k
+Added Member To Class: ClassName=main sheet Member=Component U8 MCP1703T-3302E/CB
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm

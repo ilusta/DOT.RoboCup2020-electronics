@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=*1-1
+Removed Pin From Net: NetName=VMotor_MD1 Pin=*1-2
+Removed Pin From Net: NetName=VMotor_MD1 Pin=*1-4
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC20_1 Pin=R4-2
+Removed Pin From Net: NetName=NetC20_1 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=VT1-3
+Removed Member From Class: ClassName=U_bvm Member=*1
+Removed Member From Class: ClassName=main sheet Member=C3
+Removed Member From Class: ClassName=main sheet Member=R4
+Removed Member From Class: ClassName=main sheet Member=R5
+Removed Member From Class: ClassName=main sheet Member=R6
+Removed Member From Class: ClassName=main sheet Member=R7
+Removed Member From Class: ClassName=main sheet Member=U3
+Removed Member From Class: ClassName=main sheet Member=VT1
+Added Component: Designator=U?(TO263S-5+1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IN1_MD2 Pin=U1-1
+Added Pin To Net: NetName=IN2_MD2 Pin=U1-5
+Added Pin To Net: NetName=IN1_MD1 Pin=U1-6
+Added Pin To Net: NetName=IN2_MD1 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=U?-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=U?-4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=L1-2
+Added Pin To Net: NetName=NetD4_1 Pin=U?-3
+Added Pin To Net: NetName=NetD4_1 Pin=U?-3
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-2
+Added Pin To Net: NetName=NetR19_1 Pin=U?-5
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=SRAM_CE Pin=U1-16
+Added Pin To Net: NetName=SRAM_CE Pin=U1-17
+Added Pin To Net: NetName=SRAM_CE Pin=U1-18
+Added Pin To Net: NetName=SRAM_CE Pin=U1-23
+Added Net: Name=SRAM_CE
+Added Member To Class: ClassName=U_bvm Member=Component U? 

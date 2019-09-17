@@ -1,0 +1,102 @@
+Added Component: Designator=C3(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(SRR1280)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(3224W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U17(TO263-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT1(DPAK_132)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-89-MB3_N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KICK_VDD Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VOUT Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VOUT Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=KICK_VDD Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VOUT Pin=D1-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=L1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=KICK Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-2
+Added Pin To Net: NetName=VOUT Pin=R7-1
+Added Pin To Net: NetName=KICK_VDD Pin=R7-2
+Added Pin To Net: NetName=VOUT Pin=R8-1
+Added Pin To Net: NetName=KICK_VDD Pin=R8-2
+Added Pin To Net: NetName=Val Pin=R15-1
+Added Pin To Net: NetName=Value Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=VOUT Pin=R16-2
+Added Pin To Net: NetName=VOUT Pin=R16-3
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=U17-2
+Added Pin To Net: NetName=NetD1_1 Pin=U17-3
+Added Pin To Net: NetName=NetD1_1 Pin=U17-3
+Added Pin To Net: NetName=VMotor_MD1 Pin=U17-4
+Added Pin To Net: NetName=NetR16_1 Pin=U17-5
+Added Pin To Net: NetName=NetR4_2 Pin=VT1-1
+Added Pin To Net: NetName=KICK_VSS Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Pin To Net: NetName=Val Pin=VT2-1
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Pin To Net: NetName=NetR16_1 Pin=VT2-3
+Added Member To Class: ClassName=main sheet Member=Component C3 =Value
+Added Member To Class: ClassName=U_bvm Member=Component C13 Value
+Added Member To Class: ClassName=U_bvm Member=Component C14 Value
+Added Member To Class: ClassName=U_bvm Member=Component C15 Value
+Added Member To Class: ClassName=U_bvm Member=Component C16 Value
+Added Member To Class: ClassName=main sheet Member=Component C? =Value
+Added Member To Class: ClassName=U_bvm Member=Component D1 Diode SMD
+Added Member To Class: ClassName=U_bvm Member=Component L1 Value
+Added Member To Class: ClassName=main sheet Member=Component R4 =Value
+Added Member To Class: ClassName=main sheet Member=Component R6 =Value
+Added Member To Class: ClassName=main sheet Member=Component R7 =Value
+Added Member To Class: ClassName=main sheet Member=Component R8 =Value
+Added Member To Class: ClassName=U_bvm Member=Component R15 Value
+Added Member To Class: ClassName=U_bvm Member=Component R16 Value
+Added Member To Class: ClassName=U_bvm Member=Component R17 Value
+Added Member To Class: ClassName=U_bvm Member=Component U17 XL6009E1
+Added Member To Class: ClassName=main sheet Member=Component VT1 *
+Added Member To Class: ClassName=U_bvm Member=Component VT2 NPN

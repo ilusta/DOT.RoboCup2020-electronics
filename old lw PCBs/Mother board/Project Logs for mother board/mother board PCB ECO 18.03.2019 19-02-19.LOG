@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=U6 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=U8 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=U9 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=U10 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=U12 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=C1 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C4 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C5 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C6 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C7 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C8 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C9 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C17 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C18 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=R1 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R2 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R3 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R5 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R6 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R9 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R10 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R18 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R20 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R7 Old Footprint=smd2512 New Footprint=res0402
+Change Component Footprint: Designator=R8 Old Footprint=smd2512 New Footprint=res0402
+Change Component Footprint: Designator=C16 Old Footprint=Tantal A New Footprint=D8C3.2H12
+Change Component Comment : Designator=C7 Old Comment=0.1uF New Comment==Value
+Change Component Comment : Designator=R20 Old Comment=1,3k New Comment=1.3k
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=1.5k
+Change Component Comment : Designator=R9 Old Comment=1k New Comment==Value
+Change Component Comment : Designator=R15_db Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R15_pb Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R16_db Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R16_pb Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R17_db Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R17_pb Old Comment=1k New Comment=Value
+Change Component Comment : Designator=R10 Old Comment=2.2k New Comment==Value
+Change Component Comment : Designator=C1 Old Comment=22p New Comment==Value
+Change Component Comment : Designator=C8 Old Comment=22p New Comment==Value
+Change Component Comment : Designator=C9 Old Comment=22p New Comment==Value
+Change Component Comment : Designator=R4 Old Comment=200 New Comment=200R
+Change Component Comment : Designator=C2 Old Comment==Value New Comment=2200uF
+Added Component: Designator=C15(D8C3.2H12)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VOUT Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Member To Class: ClassName=USB Member=Component C14 0.1uF
+Added Member To Class: ClassName=U_bvm Member=Component C15 100uF
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

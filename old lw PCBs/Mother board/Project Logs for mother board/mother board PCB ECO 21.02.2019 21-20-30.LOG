@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U5 Old Footprint=2x1.25 New Footprint=4x1.25
+Change Component Comment : Designator=U5 Old Comment=Header 2 New Comment=Header 4
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=+5V_MD1 Pin=U5-4

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C19 Old Footprint=elcap_case_f New Footprint=Cap_SMD_radial_polar(8x10)
+Added Member To Class: ClassName=U_bvm Member=Component C19 Value
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

@@ -1,0 +1,101 @@
+Removed Member From Class: ClassName=main sheet Member=VD3
+Change Component Designator: OldDesignator=D6 NewDesignator=D6_Designator
+Change Component Designator: OldDesignator=R19 NewDesignator=R19_Designator
+Change Component Designator: OldDesignator=R20 NewDesignator=R20_Designator
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD2_Designator
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD3_Designator
+Added Component: Designator=C20(CH0603C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D6_U_data bluetooth(MOD: HC-05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = "Bluetooth 2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.aliexpress.com/wholesale?minPrice=&maxPrice=&isBigSale=n&isFreeShip=y&isNew=n&isFavorite=n&isMobileExclusive=n&isLocalReturn=n&shipFromCountry=&shipCompanies=&SearchText=HC-06&CatId=0&initiative_id=SB_20170806222546&needQuery=y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "HC-06"; VariantName = "[No Variations]"
+Added Component: Designator=R19_U_data bluetooth(CH0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R20_U_data bluetooth(CH0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(CH0201R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(CH0201R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Component: Designator=VD2_U_data bluetooth(CH0603LG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "green"; VariantName = "[No Variations]"
+Added Component: Designator=VD3_U_data bluetooth(CH0603LG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "green"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PE0 Pin=D6_U_data bluetooth-1
+Added Pin To Net: NetName=PE1 Pin=D6_U_data bluetooth-2
+Added Pin To Net: NetName=GND Pin=D6_U_data bluetooth-12
+Added Pin To Net: NetName=+5V Pin=D6_U_data bluetooth-13
+Added Pin To Net: NetName=+5V Pin=D6_U_data bluetooth-21
+Added Pin To Net: NetName=+5V Pin=D6_U_data bluetooth-22
+Added Pin To Net: NetName=+5V Pin=R19_U_data bluetooth-2
+Added Pin To Net: NetName=+5V Pin=R20_U_data bluetooth-2
+Added Pin To Net: NetName=+5V Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=PE0 Pin=VD2_U_data bluetooth-1
+Added Pin To Net: NetName=PE1 Pin=VD3_U_data bluetooth-1
+Change Net Name : Old Net Name=+5V New Net Name=+5V_MD1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD6_Designator_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD6_Designator_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR19_Designator_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR20_Designator_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=D6_U_data bluetooth-32
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R21-2
+Added Pin To Net: NetName=NetC20_2 Pin=R22-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetD6_Designator_32 Pin=D6_Designator-32
+Added Net: Name=NetD6_Designator_32
+Added Pin To Net: NetName=NetR19_U_data bluetooth_1 Pin=R19_U_data bluetooth-1
+Added Pin To Net: NetName=NetR19_U_data bluetooth_1 Pin=VD2_U_data bluetooth-2
+Added Net: Name=NetR19_U_data bluetooth_1
+Added Pin To Net: NetName=NetR20_U_data bluetooth_1 Pin=R20_U_data bluetooth-1
+Added Pin To Net: NetName=NetR20_U_data bluetooth_1 Pin=VD3_U_data bluetooth-2
+Added Net: Name=NetR20_U_data bluetooth_1
+Added Class: Name=U_data bluetooth
+Added Class: Name=data bluetooth
+Added Member To Class: ClassName=main sheet Member=Component C20 0.1uF
+Added Member To Class: ClassName=main sheet Member=Component R1 1K
+Added Member To Class: ClassName=main sheet Member=Component R21 1K
+Added Member To Class: ClassName=main sheet Member=Component R22 2.2K
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=20mm

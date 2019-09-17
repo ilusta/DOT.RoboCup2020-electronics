@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=U14 Old Footprint=2x1.27 New Footprint=2x1.25
+Change Component Footprint: Designator=U13 Old Footprint=2x2.54 New Footprint=2x1.25
+Change Component Footprint: Designator=U16 Old Footprint=3x1.27 New Footprint=3x1.25
+Change Component Footprint: Designator=U15 Old Footprint=3x2.54 New Footprint=3x1.25
+Change Component Footprint: Designator=U5 Old Footprint=4x1.27 New Footprint=4x1.25
+Change Component Footprint: Designator=U7 Old Footprint=4x1.27 New Footprint=4x1.25
+Change Component Footprint: Designator=U9 Old Footprint=4x1.27 New Footprint=4x1.25
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Added Component: Designator=U5(4x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U7(4x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(4x2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=U5-1
+Added Pin To Net: NetName=SDA Pin=U5-2
+Added Pin To Net: NetName=SCL Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=+5 Pin=U7-1
+Added Pin To Net: NetName=SDA Pin=U7-2
+Added Pin To Net: NetName=SCL Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=+5 Pin=U9-1
+Added Pin To Net: NetName=IMU_RX Pin=U9-2
+Added Pin To Net: NetName=IMU_TX Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Room: Name=Main Sheet
+Added Room: Name=U_5V Sheet

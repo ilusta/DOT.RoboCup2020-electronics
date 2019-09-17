@@ -1,0 +1,20 @@
+Added Component: Designator=U1(5x1.27)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(5x2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=Switch1 Pin=U1-1
+Added Pin To Net: NetName=Switch1 Pin=U2-1
+Added Net: Name=Switch1
+Added Pin To Net: NetName=Switch2 Pin=U1-2
+Added Pin To Net: NetName=Switch2 Pin=U2-2
+Added Net: Name=Switch2
+Added Pin To Net: NetName=Switch3 Pin=U1-3
+Added Pin To Net: NetName=Switch3 Pin=U2-3
+Added Net: Name=Switch3
+Added Pin To Net: NetName=Switch4 Pin=U1-4
+Added Pin To Net: NetName=Switch4 Pin=U2-4
+Added Net: Name=Switch4
+Added Class: Name=Main sheet

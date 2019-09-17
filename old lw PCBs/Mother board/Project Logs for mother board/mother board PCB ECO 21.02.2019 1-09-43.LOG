@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Change Component Designator: OldDesignator=U9 NewDesignator=U11
+Change Component Designator: OldDesignator=U10 NewDesignator=U12
+Change Component Designator: OldDesignator=U11 NewDesignator=U13
+Change Component Designator: OldDesignator=U12_MD1 NewDesignator=U14_MD1
+Change Component Designator: OldDesignator=U12_MD2 NewDesignator=U14_MD2
+Change Component Designator: OldDesignator=U12_MD3 NewDesignator=U14_MD3
+Change Component Designator: OldDesignator=U12_MD4 NewDesignator=U14_MD4
+Change Component Designator: OldDesignator=U13_MD1 NewDesignator=U15_MD1
+Change Component Designator: OldDesignator=U13_MD2 NewDesignator=U15_MD2
+Change Component Designator: OldDesignator=U13_MD3 NewDesignator=U15_MD3
+Change Component Designator: OldDesignator=U13_MD4 NewDesignator=U15_MD4
+Change Component Designator: OldDesignator=U14 NewDesignator=U16
+Change Component Designator: OldDesignator=U15 NewDesignator=U17
+Change Component Designator: OldDesignator=U16_db NewDesignator=U18_db
+Change Component Designator: OldDesignator=U16_pb NewDesignator=U18_pb
+Change Component Designator: OldDesignator=U17 NewDesignator=U19
+Added Component: Designator=U7(4x1.25)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(2x2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V_MD1 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Change Net Name : Old Net Name=NetU16_db_31 New Net Name=NetU18_db_31
+Change Net Name : Old Net Name=NetU16_db_32 New Net Name=NetU18_db_32
+Change Net Name : Old Net Name=NetU16_pb_31 New Net Name=NetU18_pb_31
+Added Pin To Net: NetName=Ad1 Pin=U7-1
+Added Net: Name=Ad1
+Added Pin To Net: NetName=Ad2 Pin=U7-2
+Added Net: Name=Ad2
+Added Pin To Net: NetName=Ad3 Pin=U1-90
+Added Pin To Net: NetName=Ad3 Pin=U7-3
+Added Net: Name=Ad3
+Added Pin To Net: NetName=Ad4 Pin=U7-4
+Added Net: Name=Ad4
+Added Member To Class: ClassName=main sheet Member=Component U12 Header 2
+Added Member To Class: ClassName=main sheet Member=Component U13 MCP1703T-3302E/CB
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

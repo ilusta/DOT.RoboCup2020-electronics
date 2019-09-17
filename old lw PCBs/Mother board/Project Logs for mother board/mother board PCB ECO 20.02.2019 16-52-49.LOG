@@ -1,0 +1,26 @@
+Change Component Comment : Designator=VT1 Old Comment=* New Comment=
+Change Component Comment : Designator=R6 Old Comment==Value New Comment=10k
+Change Component Comment : Designator=R8 Old Comment==Value New Comment=200
+Change Component Comment : Designator=R4 Old Comment==Value New Comment=500
+Change Component Comment : Designator=R5 Old Comment==Value New Comment=500
+Change Component Comment : Designator=C3 Old Comment==Value New Comment=1000uF
+Added Component: Designator=U3(2x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(2x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(2x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(2x2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OUT1_MD1 Pin=U3-1
+Added Pin To Net: NetName=OUT2_MD1 Pin=U3-2
+Added Pin To Net: NetName=OUT1_MD2 Pin=U4-1
+Added Pin To Net: NetName=OUT2_MD2 Pin=U4-2
+Added Pin To Net: NetName=OUT1_MD3 Pin=U5-1
+Added Pin To Net: NetName=OUT2_MD3 Pin=U5-2
+Added Pin To Net: NetName=OUT1_MD4 Pin=U6-1
+Added Pin To Net: NetName=OUT2_MD4 Pin=U6-2
+Added Member To Class: ClassName=main sheet Member=Component U3 Header 2
+Added Member To Class: ClassName=main sheet Member=Component U4 Header 2
+Added Member To Class: ClassName=main sheet Member=Component U5 Header 2
+Added Member To Class: ClassName=main sheet Member=Component U6 Header 2

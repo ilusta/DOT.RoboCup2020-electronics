@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BALL Pin=U3-8
+Change Component Footprint: Designator=U3 Old Footprint=8x1.25 New Footprint=10x1.25
+Change Component Footprint: Designator=C16 Old Footprint=cap0805 New Footprint=cap0402
+Change Component Footprint: Designator=C17 Old Footprint=cap0805 New Footprint=cap0402
+Change Component Footprint: Designator=R4 Old Footprint=res0805 New Footprint=res0402
+Change Component Footprint: Designator=R6 Old Footprint=res0805 New Footprint=res0402
+Change Component Footprint: Designator=R16 Old Footprint=res0805 New Footprint=res0402
+Change Component Comment : Designator=U3 Old Comment=Header 8 New Comment=Header 10
+Added Pin To Net: NetName=BALL Pin=U3-9
+Added Pin To Net: NetName=ESC Pin=U3-10
+Added Net: Name=ESC
+Added Pin To Net: NetName=IMU_RX Pin=U3-8
+Added Net: Name=IMU_RX

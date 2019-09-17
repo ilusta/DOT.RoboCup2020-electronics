@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=16S Pin=*1-16
+Removed Pin From Net: NetName=15S Pin=*1-17
+Removed Pin From Net: NetName=14S Pin=*1-18
+Removed Pin From Net: NetName=13S Pin=*1-19
+Removed Pin From Net: NetName=12S Pin=*1-20
+Removed Pin From Net: NetName=11S Pin=*1-21
+Removed Pin From Net: NetName=10S Pin=*1-22
+Removed Pin From Net: NetName=9S Pin=*1-23
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=+5 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=+5 Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=+5 Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=+5 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=+5 Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=+5 Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U10-2
+Removed Pin From Net: NetName=+5 Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=+5 Pin=U11-3
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U10
+Change Component Designator: OldDesignator=U9 NewDesignator=U11
+Change Component Designator: OldDesignator=U10 NewDesignator=U12
+Change Component Designator: OldDesignator=U11 NewDesignator=U13
+Added Component: Designator=U1(5x1.27)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(4x1.25)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=9S Pin=*1-16
+Added Pin To Net: NetName=10S Pin=*1-17
+Added Pin To Net: NetName=11S Pin=*1-18
+Added Pin To Net: NetName=12S Pin=*1-19
+Added Pin To Net: NetName=13S Pin=*1-20
+Added Pin To Net: NetName=14S Pin=*1-21
+Added Pin To Net: NetName=15S Pin=*1-22
+Added Pin To Net: NetName=16S Pin=*1-23
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=TX Pin=U1-2
+Added Pin To Net: NetName=RX Pin=U1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=SDA Pin=U3-2
+Added Pin To Net: NetName=SCL Pin=U3-3
+Added Pin To Net: NetName=+5 Pin=U3-4
+Added Pin To Net: NetName=+5 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=+5 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=+5 Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=+5 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=+5 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=+5 Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=+5 Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=+5 Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Member To Class: ClassName=MK Member=Component U4 Header 4
+Added Member To Class: ClassName=MK Member=Component U5 ATmega328P-AUR
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm

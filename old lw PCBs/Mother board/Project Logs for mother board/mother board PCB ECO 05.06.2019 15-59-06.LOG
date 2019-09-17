@@ -1,0 +1,201 @@
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=RESET Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+5V_MD1 Pin=C14-2
+Removed Pin From Net: NetName=PE0 Pin=R11-2
+Removed Pin From Net: NetName=PE1 Pin=R12-2
+Removed Pin From Net: NetName=+5V_MD1 Pin=R13-2
+Removed Pin From Net: NetName=+5V_MD1 Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R16_db-1
+Removed Pin From Net: NetName=GND Pin=R16_pb-1
+Removed Pin From Net: NetName=GND Pin=R17_db-1
+Removed Pin From Net: NetName=GND Pin=R17_pb-1
+Removed Pin From Net: NetName=BVM_IN Pin=R18-2
+Removed Pin From Net: NetName=BUT2 Pin=U1-64
+Removed Pin From Net: NetName=BUT3 Pin=U1-65
+Removed Pin From Net: NetName=BUT4 Pin=U1-66
+Removed Pin From Net: NetName=BALL Pin=U1-67
+Removed Pin From Net: NetName=+5V_MD1 Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U11-6
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-4
+Removed Pin From Net: NetName=GND Pin=U16-7
+Removed Pin From Net: NetName=NetD3_1 Pin=U16-17
+Removed Pin From Net: NetName=GND Pin=U16-18
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-19
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-20
+Removed Pin From Net: NetName=GND Pin=U16-21
+Removed Pin From Net: NetName=GND Pin=U16-25
+Removed Pin From Net: NetName=GND Pin=U16-26
+Removed Pin From Net: NetName=NetR19_1 Pin=VT2-2
+Removed Pin From Net: NetName=VOUT Pin=VT2-3
+Change Component Footprint: Designator=C1 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C3 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C4 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C5 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C6 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C7 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C8 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C9 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C17 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C18 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C2 Old Footprint=D18C7.5H40 New Footprint=D8C3.2H12
+Change Component Footprint: Designator=VT1 Old Footprint=DPAK New Footprint=DPAK_132
+Change Component Footprint: Designator=R1 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R3 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R4 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R6 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R9 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R10 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R11 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R18 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R20 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R2 Old Footprint=res0805 New Footprint=res0402
+Change Component Footprint: Designator=R5 Old Footprint=res0805 New Footprint=res0402
+Change Component Footprint: Designator=R7 Old Footprint=smd2512 New Footprint=res0402
+Change Component Footprint: Designator=R8 Old Footprint=smd2512 New Footprint=res0402
+Change Component Footprint: Designator=VT2 Old Footprint=SOT23-3_A New Footprint=SOT-89-MB3_N
+Change Component Comment : Designator=R11 Old Comment=Value New Comment==Value
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=C17 NewDesignator=C15
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R15_db NewDesignator=R12_db
+Change Component Designator: OldDesignator=R15_pb NewDesignator=R12_pb
+Change Component Designator: OldDesignator=R16_db NewDesignator=R13_db
+Change Component Designator: OldDesignator=R16_pb NewDesignator=R13_pb
+Change Component Designator: OldDesignator=R17_db NewDesignator=R14_db
+Change Component Designator: OldDesignator=R17_pb NewDesignator=R14_pb
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R19 NewDesignator=R16
+Change Component Designator: OldDesignator=R20 NewDesignator=R17
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U17_db NewDesignator=U16_db
+Change Component Designator: OldDesignator=U17_pb NewDesignator=U16_pb
+Change Component Designator: OldDesignator=U18 NewDesignator=U17
+Change Component Designator: OldDesignator=VD2_db NewDesignator=VD3_db
+Change Component Designator: OldDesignator=VD2_pb NewDesignator=VD3_pb
+Change Component Designator: OldDesignator=VD3_db NewDesignator=VD4_db
+Change Component Designator: OldDesignator=VD3_pb NewDesignator=VD4_pb
+Change Component Designator: OldDesignator=VD4_db NewDesignator=VD5_db
+Change Component Designator: OldDesignator=VD4_pb NewDesignator=VD5_pb
+Added Component: Designator=C2(cap0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(5x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD2(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=C2-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=+5V_MD1 Pin=R13_db-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R13_pb-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R14_db-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R14_pb-1
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=BUT4 Pin=U1-57
+Added Pin To Net: NetName=BUT3 Pin=U1-58
+Added Pin To Net: NetName=BUT2 Pin=U1-59
+Added Pin To Net: NetName=BALL Pin=U1-60
+Added Pin To Net: NetName=RESET Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=PE1 Pin=U4-2
+Added Pin To Net: NetName=PE0 Pin=U4-3
+Added Pin To Net: NetName=+5V_MD1 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U14_MD1-7
+Added Pin To Net: NetName=GND Pin=U14_MD2-7
+Added Pin To Net: NetName=GND Pin=U14_MD3-7
+Added Pin To Net: NetName=GND Pin=U14_MD4-7
+Added Pin To Net: NetName=GND Pin=U15_MD1-7
+Added Pin To Net: NetName=GND Pin=U15_MD2-7
+Added Pin To Net: NetName=GND Pin=U15_MD3-7
+Added Pin To Net: NetName=GND Pin=U15_MD4-7
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Pin To Net: NetName=VOUT Pin=VT2-2
+Added Pin To Net: NetName=NetR19_1 Pin=VT2-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR15_db_2 New Net Name=NetR12_db_2
+Change Net Name : Old Net Name=NetR15_pb_2 New Net Name=NetR12_pb_2
+Change Net Name : Old Net Name=NetR16_db_2 New Net Name=NetR13_db_2
+Change Net Name : Old Net Name=NetR16_pb_2 New Net Name=NetR13_pb_2
+Change Net Name : Old Net Name=NetR17_db_2 New Net Name=NetR14_db_2
+Change Net Name : Old Net Name=NetR17_pb_2 New Net Name=NetR14_pb_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetU17_db_31 New Net Name=NetU16_db_31
+Change Net Name : Old Net Name=NetU17_db_32 New Net Name=NetU16_db_32
+Change Net Name : Old Net Name=NetU17_pb_31 New Net Name=NetU16_pb_31
+Change Net Name : Old Net Name=PE0 New Net Name=RX
+Change Net Name : Old Net Name=PE1 New Net Name=TX
+Added Pin To Net: NetName=DMU Pin=U6-2
+Added Net: Name=DMU
+Added Pin To Net: NetName=DPU Pin=U6-1
+Added Net: Name=DPU
+Added Pin To Net: NetName=LED13 Pin=U1-26
+Added Pin To Net: NetName=LED13 Pin=VD2-1
+Added Net: Name=LED13
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U4-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=VD2-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=Value Pin=R15-2
+Added Net: Name=Value
+Added Member To Class: ClassName=main sheet Member=Component C12 22uF
+Added Member To Class: ClassName=main sheet Member=Component R11 =Value
+Added Member To Class: ClassName=main sheet Member=Component SW1 Switch
+Added Member To Class: ClassName=main sheet Member=Component VD2 *
+Added Room: Name=db
+Added Room: Name=main sheet
+Added Room: Name=MD1
+Added Room: Name=MD2
+Added Room: Name=MD3
+Added Room: Name=MD4
+Added Room: Name=pb
+Added Room: Name=U_BVM
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

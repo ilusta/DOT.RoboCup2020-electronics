@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Left Board.PcbDoc]
+   Generated File[Left Board.GTO]
+   Generated File[Left Board.GTS]
+   Generated File[Left Board.GTL]
+   Generated File[Left Board.GBL]
+   Generated File[Left Board.GBS]
+   Generated File[Left Board.GBO]
+   Generated File[Left Board.GM5]
+   Generated File[Left Board.RUL]
+   Generated File[Left Board.EXTREP]
+   Generated File[Left Board.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 0:40:34 On 23.03.2019

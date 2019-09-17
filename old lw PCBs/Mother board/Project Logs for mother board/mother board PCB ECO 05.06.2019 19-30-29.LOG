@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VOUT Pin=VT2-2
+Removed Pin From Net: NetName=VOUT Pin=VT2-2
+Removed Pin From Net: NetName=NetR16_1 Pin=VT2-3
+Removed Member From Class: ClassName=U_bvm Member=R15
+Removed Member From Class: ClassName=U_bvm Member=VT2

@@ -1,0 +1,5 @@
+Added Component: Designator=U?(2x1.25)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=D+ Pin=U?-1
+Added Pin To Net: NetName=D- Pin=U?-2
+Added Member To Class: ClassName=main sheet Member=Component U? Header 2

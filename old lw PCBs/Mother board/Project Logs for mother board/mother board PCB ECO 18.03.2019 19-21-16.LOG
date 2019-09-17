@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=U_bvm Member=C14
+Added Pin To Net: NetName=VMotor_MD1 Pin=C17-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=L1-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-4
+Added Member To Class: ClassName=USB Member=Component C14 0.1uF
+Added Member To Class: ClassName=U_bvm Member=Component C15 100uF
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

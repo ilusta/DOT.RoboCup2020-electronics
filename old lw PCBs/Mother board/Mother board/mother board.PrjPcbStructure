@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=main sheet.SchDoc
+Record=SheetSymbol|SourceDocument=main sheet.SchDoc|Designator=MD1|SchDesignator=MD1|FileName=Motor driver sheet.SchDoc|SymbolType=Normal|RawFileName=Motor driver sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main sheet.SchDoc|Designator=MD2|SchDesignator=MD2|FileName=Motor driver sheet.SchDoc|SymbolType=Normal|RawFileName=Motor driver sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main sheet.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB Sheet (FT232RL).SchDoc|SymbolType=Normal|RawFileName=USB Sheet (FT232RL).SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main sheet.SchDoc|Designator=USBHub|SchDesignator=USBHub|FileName=USB Hub.SchDoc|SymbolType=Normal|RawFileName=USB Hub.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

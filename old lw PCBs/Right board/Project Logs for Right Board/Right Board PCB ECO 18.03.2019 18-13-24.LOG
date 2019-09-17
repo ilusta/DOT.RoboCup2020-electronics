@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=U5 Old Footprint=4x2.54 New Footprint=4x1.25
+Change Component Footprint: Designator=U7 Old Footprint=4x2.54 New Footprint=4x1.25
+Change Component Footprint: Designator=U9 Old Footprint=4x2.54 New Footprint=4x1.25
+Change Component Footprint: Designator=VD1 Old Footprint=CH0805LB New Footprint=CH0603LB
+Added Component: Designator=R3(res0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=VD1-2
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=Main Sheet Member=Component R3 =Value
+Added Room: Name=Main Sheet
+Added Room: Name=U_5V Sheet

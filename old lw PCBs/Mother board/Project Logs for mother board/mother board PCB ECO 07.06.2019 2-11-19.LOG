@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=IMU_RX Pin=U1-12
+Added Pin To Net: NetName=IMU_RX Pin=U1-63

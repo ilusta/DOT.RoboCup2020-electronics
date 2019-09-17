@@ -1,0 +1,173 @@
+Added Component: Designator=C1(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(cap0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(4x1.25)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(3x1.25)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(ZX62-B-5PA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(LQFP64_N_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD4(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(QSMD3.2x2.5_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VD33 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VD18 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=XOUT Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=XIN Pin=C4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=VBUS Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=DP1 Pin=U1-2
+Added Pin To Net: NetName=DM1 Pin=U1-3
+Added Pin To Net: NetName=VBUS Pin=U1-4
+Added Pin To Net: NetName=Cam_d+ Pin=U2-1
+Added Pin To Net: NetName=Cam_d- Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=VBUS Pin=U3-1
+Added Pin To Net: NetName=DMU Pin=U3-2
+Added Pin To Net: NetName=DPU Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VD18 Pin=U4-7
+Added Pin To Net: NetName=VBUS Pin=U4-9
+Added Pin To Net: NetName=VD33 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=OVCJ Pin=U4-13
+Added Pin To Net: NetName=OVCJ Pin=U4-15
+Added Pin To Net: NetName=VD33 Pin=U4-16
+Added Pin To Net: NetName=DM4 Pin=U4-17
+Added Pin To Net: NetName=DP4 Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-19
+Added Pin To Net: NetName=DM3 Pin=U4-20
+Added Pin To Net: NetName=DP3 Pin=U4-21
+Added Pin To Net: NetName=VD33 Pin=U4-22
+Added Pin To Net: NetName=Cam_d- Pin=U4-23
+Added Pin To Net: NetName=Cam_d+ Pin=U4-24
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=DM1 Pin=U4-26
+Added Pin To Net: NetName=DP1 Pin=U4-27
+Added Pin To Net: NetName=VD33 Pin=U4-28
+Added Pin To Net: NetName=VD18 Pin=U4-29
+Added Pin To Net: NetName=XIN Pin=U4-30
+Added Pin To Net: NetName=XOUT Pin=U4-31
+Added Pin To Net: NetName=GND Pin=U4-32
+Added Pin To Net: NetName=VD18 Pin=U4-33
+Added Pin To Net: NetName=VD33 Pin=U4-34
+Added Pin To Net: NetName=NetR7_2 Pin=U4-35
+Added Pin To Net: NetName=VD18 Pin=U4-36
+Added Pin To Net: NetName=GND Pin=U4-37
+Added Pin To Net: NetName=DMU Pin=U4-38
+Added Pin To Net: NetName=DPU Pin=U4-39
+Added Pin To Net: NetName=VD33 Pin=U4-40
+Added Pin To Net: NetName=DM5 Pin=U4-41
+Added Pin To Net: NetName=DP5 Pin=U4-42
+Added Pin To Net: NetName=GND Pin=U4-43
+Added Pin To Net: NetName=DM6 Pin=U4-44
+Added Pin To Net: NetName=DP6 Pin=U4-45
+Added Pin To Net: NetName=VD33 Pin=U4-46
+Added Pin To Net: NetName=DM7 Pin=U4-47
+Added Pin To Net: NetName=DP7 Pin=U4-48
+Added Pin To Net: NetName=GND Pin=U4-49
+Added Pin To Net: NetName=NetR6_2 Pin=U4-50
+Added Pin To Net: NetName=VBUS Pin=U4-51
+Added Pin To Net: NetName=OVCJ Pin=U4-53
+Added Pin To Net: NetName=OVCJ Pin=U4-55
+Added Pin To Net: NetName=VD33 Pin=U4-56
+Added Pin To Net: NetName=OVCJ Pin=U4-58
+Added Pin To Net: NetName=OVCJ Pin=U4-60
+Added Pin To Net: NetName=OVCJ Pin=U4-62
+Added Pin To Net: NetName=DP1 Pin=VD1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD1-2
+Added Pin To Net: NetName=DM1 Pin=VD2-1
+Added Pin To Net: NetName=NetR2_2 Pin=VD2-2
+Added Pin To Net: NetName=Cam_d+ Pin=VD3-1
+Added Pin To Net: NetName=NetR3_1 Pin=VD3-2
+Added Pin To Net: NetName=Cam_d- Pin=VD4-1
+Added Pin To Net: NetName=NetR4_2 Pin=VD4-2
+Added Pin To Net: NetName=XOUT Pin=Y1-1
+Added Pin To Net: NetName=XIN Pin=Y1-2
+Added Member To Class: ClassName=U_USB Hub Member=Component C1 Value
+Added Member To Class: ClassName=U_USB Hub Member=Component C2 Value
+Added Member To Class: ClassName=U_USB Hub Member=Component C3 Value
+Added Member To Class: ClassName=U_USB Hub Member=Component C4 Value
+Added Member To Class: ClassName=Main Sheet Member=Component R1 =Value
+Added Member To Class: ClassName=Main Sheet Member=Component R2 =Value
+Added Member To Class: ClassName=Main Sheet Member=Component R3 =Value
+Added Member To Class: ClassName=Main Sheet Member=Component R4 =Value
+Added Member To Class: ClassName=U_USB Hub Member=Component R6 Value
+Added Member To Class: ClassName=U_USB Hub Member=Component R7 Value
+Added Member To Class: ClassName=Main Sheet Member=Component U1 Header 4
+Added Member To Class: ClassName=Main Sheet Member=Component U2 Header 3
+Added Member To Class: ClassName=Main Sheet Member=Component U3 ZX62-B-5PA
+Added Member To Class: ClassName=U_USB Hub Member=Component U4 FE2.1
+Added Member To Class: ClassName=Main Sheet Member=Component VD1 *
+Added Member To Class: ClassName=Main Sheet Member=Component VD2 *
+Added Member To Class: ClassName=Main Sheet Member=Component VD3 *
+Added Member To Class: ClassName=Main Sheet Member=Component VD4 *
+Added Member To Class: ClassName=U_USB Hub Member=Component Y1 Value

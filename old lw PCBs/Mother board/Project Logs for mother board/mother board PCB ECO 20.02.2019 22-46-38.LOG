@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C17 Old Footprint=D13C5H20 New Footprint=D6.6C6.6H6.1
+Change Component Footprint: Designator=C18 Old Footprint=D13C5H20 New Footprint=D6.6C6.6H6.1
+Added Member To Class: ClassName=main sheet Member=Component U5 Header 2
+Added Member To Class: ClassName=MD1 Member=Component U12_MD1 (U12) DRV8870
+Added Member To Class: ClassName=MD2 Member=Component U12_MD2 (U12) DRV8870
+Added Member To Class: ClassName=MD3 Member=Component U12_MD3 (U12) DRV8870
+Added Member To Class: ClassName=MD4 Member=Component U12_MD4 (U12) DRV8870
+Added Member To Class: ClassName=USB Member=Component U14 FT232RL
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm

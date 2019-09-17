@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=main sheet Member=C12
+Removed Member From Class: ClassName=main sheet Member=C15
+Removed Member From Class: ClassName=USB Member=C20
+Change Component Footprint: Designator=C9 Old Footprint=cap0402 New Footprint=cap0603
+Change Component Footprint: Designator=C10 Old Footprint=cap0402 New Footprint=cap0603
+Added Member To Class: ClassName=main sheet Member=Component C10 22p
+Added Member To Class: ClassName=USB Member=Component C16 Value
+Added Member To Class: ClassName=USB Member=Component R11 Value
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

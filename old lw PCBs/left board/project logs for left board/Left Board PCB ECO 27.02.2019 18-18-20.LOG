@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=Y1 Old Footprint=QSMD5.0x3.2x1.0 New Footprint=QSMD3.2x2.5_A
+Change Physical Footprint: Designator=C1 Old Footprint=cap0402 New Footprint=cap0402
+Change Physical Footprint: Designator=C2 Old Footprint=cap0402 New Footprint=cap0402
+Change Physical Footprint: Designator=C3 Old Footprint=cap0402 New Footprint=cap0402
+Change Physical Footprint: Designator=C4 Old Footprint=cap0402 New Footprint=cap0402
+Change Physical Footprint: Designator=R1 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R2 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R3 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R4 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R5 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R6 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=R7 Old Footprint=res0402 New Footprint=res0402
+Change Physical Footprint: Designator=U1 Old Footprint=CON: PLS-4 New Footprint=CON: PLS-4
+Change Physical Footprint: Designator=U2 Old Footprint=3x2.54 New Footprint=3x2.54
+Change Physical Footprint: Designator=U3 Old Footprint=ZX62-B-5PA New Footprint=ZX62-B-5PA
+Change Physical Footprint: Designator=U4 Old Footprint=LQFP64_N_1 New Footprint=LQFP64_N_1
+Change Physical Footprint: Designator=VD1 Old Footprint=CH0603LB New Footprint=CH0603LB
+Change Physical Footprint: Designator=VD2 Old Footprint=CH0603LB New Footprint=CH0603LB
+Change Physical Footprint: Designator=VD3 Old Footprint=CH0603LB New Footprint=CH0603LB
+Change Physical Footprint: Designator=VD4 Old Footprint=CH0603LB New Footprint=CH0603LB

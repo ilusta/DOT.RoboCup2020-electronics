@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=KICK_VDD Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=RESET Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+5V_MD1 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=VMotor_MD1 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=VMotor_MD1 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=VMotor_MD1 Pin=L1-1
+Removed Pin From Net: NetName=KICK_VDD Pin=R7-2
+Removed Pin From Net: NetName=KICK_VDD Pin=R8-2
+Removed Pin From Net: NetName=PE0 Pin=R11-2
+Removed Pin From Net: NetName=PE1 Pin=R12-2
+Removed Pin From Net: NetName=+5V_MD1 Pin=R13-2
+Removed Pin From Net: NetName=+5V_MD1 Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R16_db-1
+Removed Pin From Net: NetName=GND Pin=R16_pb-1
+Removed Pin From Net: NetName=GND Pin=R17_db-1
+Removed Pin From Net: NetName=GND Pin=R17_pb-1
+Removed Pin From Net: NetName=BVM_IN Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=BUT2 Pin=U1-64
+Removed Pin From Net: NetName=BUT3 Pin=U1-65
+Removed Pin From Net: NetName=BUT4 Pin=U1-66
+Removed Pin From Net: NetName=BALL Pin=U1-67
+Removed Pin From Net: NetName=+5V_MD1 Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U11-6
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-4
+Removed Pin From Net: NetName=GND Pin=U16-7
+Removed Pin From Net: NetName=GND Pin=U16-18
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-19
+Removed Pin From Net: NetName=+5V_MD1 Pin=U16-20
+Removed Pin From Net: NetName=GND Pin=U16-21
+Removed Pin From Net: NetName=GND Pin=U16-25
+Removed Pin From Net: NetName=GND Pin=U16-26
+Removed Pin From Net: NetName=GND Pin=U18-1
+Removed Pin From Net: NetName=VMotor_MD1 Pin=U18-2
+Removed Pin From Net: NetName=VMotor_MD1 Pin=U18-4
+Removed Member From Class: ClassName=main sheet Member=C2
+Removed Member From Class: ClassName=main sheet Member=R7
+Removed Member From Class: ClassName=main sheet Member=R8
+Removed Member From Class: ClassName=main sheet Member=U11
+Change Component Footprint: Designator=C1 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C3 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C4 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C5 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C6 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C7 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C8 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=C9 Old Footprint=cap0603 New Footprint=cap0402
+Change Component Footprint: Designator=VT1 Old Footprint=DPAK New Footprint=8-HSOF
+Change Component Footprint: Designator=R1 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R3 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R4 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R6 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R9 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R10 Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R15_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R16_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_db Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R17_pb Old Footprint=res0603 New Footprint=res0402
+Change Component Footprint: Designator=R2 Old Footprint=res0805 New Footprint=res0402
+Change Component Footprint: Designator=R5 Old Footprint=res0805 New Footprint=res0402
+Added Component: Designator=C?(cap0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(res0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW?(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(5x2.54)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD?(CH0603LB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=C?-2
+Added Pin To Net: NetName=+5V_MD1 Pin=R16_db-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R16_pb-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R17_db-1
+Added Pin To Net: NetName=+5V_MD1 Pin=R17_pb-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=RESET Pin=SW?-1
+Added Pin To Net: NetName=RESET Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=BUT4 Pin=U1-57
+Added Pin To Net: NetName=BUT3 Pin=U1-58
+Added Pin To Net: NetName=BUT2 Pin=U1-59
+Added Pin To Net: NetName=BALL Pin=U1-60
+Added Pin To Net: NetName=RESET Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=PE1 Pin=U?-2
+Added Pin To Net: NetName=PE0 Pin=U?-3
+Added Pin To Net: NetName=+5V_MD1 Pin=U?-5
+Change Net Name : Old Net Name=PE0 New Net Name=RX
+Change Net Name : Old Net Name=PE1 New Net Name=TX
+Added Pin To Net: NetName=DMU Pin=U5-2
+Added Net: Name=DMU
+Added Pin To Net: NetName=DPU Pin=U5-1
+Added Net: Name=DPU
+Added Pin To Net: NetName=LED13 Pin=U1-26
+Added Pin To Net: NetName=LED13 Pin=VD?-1
+Added Net: Name=LED13
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=main sheet Member=Component C? 0.1uF
+Added Member To Class: ClassName=main sheet Member=Component R? =Value
+Added Member To Class: ClassName=main sheet Member=Component SW? Switch
+Added Member To Class: ClassName=main sheet Member=Component U? Header 5
+Added Member To Class: ClassName=main sheet Member=Component VD? *

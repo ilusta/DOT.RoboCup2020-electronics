@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=OVCJ Pin=U4-14
+Removed Pin From Net: NetName=OVCJ Pin=U4-16
+Change Component Footprint: Designator=U2 Old Footprint=3x2.54 New Footprint=3x1.25
+Change Component Footprint: Designator=U1 Old Footprint=CON: PLS-4 New Footprint=4x1.25
+Change Component Footprint: Designator=Y1 Old Footprint=QSMD5.0x3.2x1.0 New Footprint=QSMD3.2x2.5_A
+Added Pin To Net: NetName=OVCJ Pin=U4-13
+Added Pin To Net: NetName=VD33 Pin=U4-16
+Added Pin To Net: NetName=OVCJ Pin=U4-53
+Added Pin To Net: NetName=OVCJ Pin=U4-55
+Added Pin To Net: NetName=OVCJ Pin=U4-58
+Added Pin To Net: NetName=OVCJ Pin=U4-60
+Added Pin To Net: NetName=OVCJ Pin=U4-62
+Added Room: Name=Main Sheet
+Added Room: Name=U_USB Hub
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

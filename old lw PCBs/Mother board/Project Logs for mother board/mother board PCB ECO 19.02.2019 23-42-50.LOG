@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=main sheet Member=R13
+Removed Member From Class: ClassName=main sheet Member=VT2
+Change Component Footprint: Designator=C20 Old Footprint=Cap_SMD_radial_polar(8x10) New Footprint=D6.6C6.6H6.1
+Added Member To Class: ClassName=main sheet Member=Component C3 =Value
+Added Member To Class: ClassName=main sheet Member=Component R4 =Value
+Added Member To Class: ClassName=main sheet Member=Component R5 =Value
+Added Member To Class: ClassName=main sheet Member=Component VT1 *
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=3mm

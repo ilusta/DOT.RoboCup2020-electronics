@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Y1-
+Removed Pin From Net: NetName=GND Pin=Y1-
+Added Component: Designator=U5(CON: PLS-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(3x2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=DP1 Pin=U5-2
+Added Pin To Net: NetName=DM1 Pin=U5-3
+Added Pin To Net: NetName=VBUS Pin=U5-4
+Added Pin To Net: NetName=Cam_d+ Pin=U6-1
+Added Pin To Net: NetName=Cam_d- Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Member To Class: ClassName=Main Sheet Member=Component U5 Header 4
+Added Member To Class: ClassName=Main Sheet Member=Component U6 Header 3

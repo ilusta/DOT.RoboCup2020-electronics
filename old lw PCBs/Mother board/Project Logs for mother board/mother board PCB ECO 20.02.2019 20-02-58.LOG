@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SCL Pin=U1-43
+Added Pin To Net: NetName=SDA Pin=U1-44
+Added Pin To Net: NetName=BUT1 Pin=U1-63
+Added Pin To Net: NetName=BUT2 Pin=U1-64
+Added Pin To Net: NetName=BUT3 Pin=U1-65
+Added Pin To Net: NetName=BUT4 Pin=U1-66
+Added Pin To Net: NetName=BALL Pin=U1-67

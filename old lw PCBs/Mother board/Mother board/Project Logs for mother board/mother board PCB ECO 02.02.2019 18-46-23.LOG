@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=U6_MD NewDesignator=U6_MD1
+Change Component Designator: OldDesignator=U7_MD NewDesignator=U7_MD1
+Added Pin To Net: NetName=OVCJ Pin=U4-16
+Added Pin To Net: NetName=DM4 Pin=U4-17
+Added Pin To Net: NetName=DP4 Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-19
+Added Pin To Net: NetName=DM3 Pin=U4-20
+Change Net Name : Old Net Name=+5V_MD New Net Name=+5V_MD1
+Change Net Name : Old Net Name=IN1_MD New Net Name=IN1_MD1
+Change Net Name : Old Net Name=IN2_MD New Net Name=IN2_MD1
+Change Net Name : Old Net Name=VMotor_MD New Net Name=VMotor_MD1
+Change Class Name : Old Net Name=MD New Net Name=MD1
+Added Room: Name=MD1

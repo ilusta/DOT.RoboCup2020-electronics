@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VMotor_MD1 Pin=C17-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=L1-1
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-2
+Added Pin To Net: NetName=VMotor_MD1 Pin=U18-4
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm

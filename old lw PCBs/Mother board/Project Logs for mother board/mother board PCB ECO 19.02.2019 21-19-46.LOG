@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U7
+Change Component Designator: OldDesignator=U4_MD1 NewDesignator=U8_MD1
+Change Component Designator: OldDesignator=U4_MD2 NewDesignator=U8_MD2
+Change Component Designator: OldDesignator=U4_MD3 NewDesignator=U8_MD3
+Change Component Designator: OldDesignator=U4_MD4 NewDesignator=U8_MD4
+Change Component Designator: OldDesignator=U5_MD1 NewDesignator=U9_MD1
+Change Component Designator: OldDesignator=U5_MD2 NewDesignator=U9_MD2
+Change Component Designator: OldDesignator=U5_MD3 NewDesignator=U9_MD3
+Change Component Designator: OldDesignator=U5_MD4 NewDesignator=U9_MD4
+Change Component Designator: OldDesignator=U7 NewDesignator=U11
+Change Component Designator: OldDesignator=U8 NewDesignator=U12
+Change Component Designator: OldDesignator=U9_db NewDesignator=U13_db
+Change Component Designator: OldDesignator=U9_pb NewDesignator=U13_pb
+Change Component Designator: OldDesignator=U10 NewDesignator=U14
+Change Net Name : Old Net Name=NetU9_db_31 New Net Name=NetU13_db_31
+Change Net Name : Old Net Name=NetU9_db_32 New Net Name=NetU13_db_32
+Change Net Name : Old Net Name=NetU9_pb_31 New Net Name=NetU13_pb_31
+Added Pin To Net: NetName=OUT1_MD1 Pin=U8_MD1-6
+Added Pin To Net: NetName=OUT1_MD1 Pin=U9_MD1-6
+Added Net: Name=OUT1_MD1
+Added Pin To Net: NetName=OUT1_MD2 Pin=U8_MD2-6
+Added Pin To Net: NetName=OUT1_MD2 Pin=U9_MD2-6
+Added Net: Name=OUT1_MD2
+Added Pin To Net: NetName=OUT1_MD3 Pin=U8_MD3-6
+Added Pin To Net: NetName=OUT1_MD3 Pin=U9_MD3-6
+Added Net: Name=OUT1_MD3
+Added Pin To Net: NetName=OUT1_MD4 Pin=U8_MD4-6
+Added Pin To Net: NetName=OUT1_MD4 Pin=U9_MD4-6
+Added Net: Name=OUT1_MD4
+Added Pin To Net: NetName=OUT2_MD1 Pin=U8_MD1-8
+Added Pin To Net: NetName=OUT2_MD1 Pin=U9_MD1-8
+Added Net: Name=OUT2_MD1
+Added Pin To Net: NetName=OUT2_MD2 Pin=U8_MD2-8
+Added Pin To Net: NetName=OUT2_MD2 Pin=U9_MD2-8
+Added Net: Name=OUT2_MD2
+Added Pin To Net: NetName=OUT2_MD3 Pin=U8_MD3-8
+Added Pin To Net: NetName=OUT2_MD3 Pin=U9_MD3-8
+Added Net: Name=OUT2_MD3
+Added Pin To Net: NetName=OUT2_MD4 Pin=U8_MD4-8
+Added Pin To Net: NetName=OUT2_MD4 Pin=U9_MD4-8
+Added Net: Name=OUT2_MD4
+Added Member To Class: ClassName=main sheet Member=Component U7 MCP1703T-3302E/CB
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2mm

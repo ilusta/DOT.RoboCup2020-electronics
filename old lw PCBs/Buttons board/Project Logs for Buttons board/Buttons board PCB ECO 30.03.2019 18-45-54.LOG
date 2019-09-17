@@ -1,0 +1,28 @@
+Added Component: Designator=*1(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-1
+Added Pin To Net: NetName=Switch1 Pin=*1-2
+Added Pin To Net: NetName=Switch1 Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*2-1
+Added Pin To Net: NetName=GND Pin=*2-1
+Added Pin To Net: NetName=Switch2 Pin=*2-2
+Added Pin To Net: NetName=Switch2 Pin=*2-2
+Added Pin To Net: NetName=GND Pin=*3-1
+Added Pin To Net: NetName=GND Pin=*3-1
+Added Pin To Net: NetName=Switch3 Pin=*3-2
+Added Pin To Net: NetName=Switch3 Pin=*3-2
+Added Pin To Net: NetName=GND Pin=*4-1
+Added Pin To Net: NetName=GND Pin=*4-1
+Added Pin To Net: NetName=Switch4 Pin=*4-2
+Added Pin To Net: NetName=Switch4 Pin=*4-2
+Added Member To Class: ClassName=Main sheet Member=Component *1 Switch
+Added Member To Class: ClassName=Main sheet Member=Component *2 Switch
+Added Member To Class: ClassName=Main sheet Member=Component *3 Switch
+Added Member To Class: ClassName=Main sheet Member=Component *4 Switch

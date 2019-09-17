@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BALL Pin=U3-1
+Removed Pin From Net: NetName=ESC Pin=U3-2
+Added Pin To Net: NetName=ESC Pin=U3-1
+Added Pin To Net: NetName=BALL Pin=U3-2

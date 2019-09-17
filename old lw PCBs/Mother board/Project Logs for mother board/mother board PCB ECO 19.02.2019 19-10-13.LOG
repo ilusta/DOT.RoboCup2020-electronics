@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=IN1_MD2 Pin=U1-1
+Removed Pin From Net: NetName=IN2_MD2 Pin=U1-5
+Removed Pin From Net: NetName=IN1_MD1 Pin=U1-6
+Removed Pin From Net: NetName=IN2_MD1 Pin=U1-7
+Removed Pin From Net: NetName=SRAM_CE Pin=U1-16
+Removed Pin From Net: NetName=SRAM_CE Pin=U1-17
+Added Pin To Net: NetName=IN2_MD2 Pin=U1-1
+Added Pin To Net: NetName=IN1_MD2 Pin=U1-5
+Added Pin To Net: NetName=IN2_MD1 Pin=U1-6
+Added Pin To Net: NetName=IN1_MD1 Pin=U1-7
+Added Pin To Net: NetName=IN1_MD4 Pin=U1-16
+Added Pin To Net: NetName=IN2_MD4 Pin=U1-17

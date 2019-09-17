@@ -1,0 +1,11 @@
+Added Component: Designator=U?(4x1.27)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V_MD1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=ECHO Pin=U1-76
+Added Pin To Net: NetName=ECHO Pin=U?-3
+Added Net: Name=ECHO
+Added Pin To Net: NetName=TRIGGER Pin=U1-77
+Added Pin To Net: NetName=TRIGGER Pin=U?-2
+Added Net: Name=TRIGGER
+Added Member To Class: ClassName=main sheet Member=Component U? Header 4

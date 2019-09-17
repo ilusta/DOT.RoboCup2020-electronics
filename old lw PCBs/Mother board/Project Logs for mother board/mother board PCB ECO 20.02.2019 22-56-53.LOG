@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U6 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U7 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U8 Old Footprint=2x1.25 New Footprint=2x2.54
+Change Component Footprint: Designator=U10 Old Footprint=2x1.25 New Footprint=2x2.54
+Added Component: Designator=VT1(DPAK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_2 Pin=VT1-1
+Added Pin To Net: NetName=KICK_VSS Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Member To Class: ClassName=main sheet Member=Component VT1 *

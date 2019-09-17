@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PE0 Pin=U2-2
+Added Pin To Net: NetName=OVCJ Pin=U5-16
+Added Pin To Net: NetName=DM4 Pin=U5-17
+Added Pin To Net: NetName=DP4 Pin=U5-18
+Added Pin To Net: NetName=GND Pin=U5-19
+Added Pin To Net: NetName=DM3 Pin=U5-20
